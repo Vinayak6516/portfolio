@@ -123,7 +123,7 @@ img {
 
 /*===== LAYOUT =====*/
 .bd-grid {
-  max-width: 1024px;
+  max-width: 100%;
   display: grid;
   margin-left: var(--mb-2);
   margin-right: var(--mb-2);
