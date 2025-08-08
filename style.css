@@ -303,7 +303,7 @@ img {
   padding: 0.5rem 1rem;
   margin-bottom: var(--mb-4);
   border-radius: 0.5rem;
-  box-shadow: 0px 4px 25px rgba(14, 36, 49, 0.15);
+  box-shadow: 0px 4px 25px rgba(211,211,211,0.8);
 }
 .skills__icon {
   font-size: 2rem;
@@ -344,10 +344,10 @@ img {
   row-gap: 2rem;
 }
 .work__img {
-  box-shadow: 0px 4px 25px rgba(14, 36, 49, 0.15);
+  box-shadow: 0px 4px 25px rgba(211, 211, 211, 0.7);
   border-radius: 0.5rem;
   padding: 50px;
-  justify-content: center;
+  justify-items: center;
   overflow: hidden;
 }
 .work__img a {
@@ -519,6 +519,7 @@ img {
     width: 450px;
   }
 }
+
 
 
 
