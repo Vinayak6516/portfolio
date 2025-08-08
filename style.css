@@ -332,8 +332,8 @@ img {
 .skills__js {
   width: 65%;
 }
-.skills__ux {
-  width: 35%;
+.skills__devops {
+  width: 55%;
 }
 .skills__img {
   border-radius: 0.5rem;
@@ -517,3 +517,4 @@ img {
     width: 450px;
   }
 }
+
